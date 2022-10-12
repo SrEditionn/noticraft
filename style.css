@@ -4,7 +4,7 @@ html {
 
 body {
     text-rendering: optimizeLegibility;
-    background-image: url(./image/Fundo.jpg);
+    background-image: url(Fundo.jpg);
     background-size: cover;
     background-repeat: repeat;
     background-position: center center;
